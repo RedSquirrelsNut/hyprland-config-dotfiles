@@ -20,7 +20,7 @@
       gimp
       firefox
       # lutris-unwrapped #TODO:Re-enable when fixed (https://github.com/NixOS/nixpkgs/issues/368119)
-      # heroic-unwrapped # (electron-unwrapped) Also broken, this is getting old
+      # heroic-unwrapped
       wineWowPackages.waylandFull
       winetricks
       prismlauncher
